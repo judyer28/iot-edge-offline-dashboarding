@@ -129,7 +129,7 @@ module.exports = {
         },
         {
             username: "reader",
-            password: "",
+            password: "$2a$08$V6.hG3YSkMPhCBEs0tcnGeHpo3eRkNDB3/ESgQ0ibAZy7BDjhwjG6",
             permissions: "read"
         }]
     },
