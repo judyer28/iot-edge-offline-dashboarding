@@ -126,7 +126,12 @@ module.exports = {
            username: "admin",
            password: "$2a$08$iiR32/SpJlZkZQ3MGEtd8OuC22n5qtvO/ms7gCdi8mUxz0zxqpccy",
            permissions: "*"
-       }]
+        },
+        {
+            username: "reader",
+            password: "",
+            permissions: "read"
+        }]
     },
 
     // To password protect the node-defined HTTP endpoints (httpNodeRoot), or
